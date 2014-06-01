@@ -17,7 +17,7 @@
 package com.android.music;
 
 import com.android.music.MusicUtils.ServiceToken;
-import com.android.music.R;
+import com.gluon.music.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;

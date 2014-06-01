@@ -44,7 +44,7 @@ import android.widget.RadioButton;
 import android.widget.SectionIndexer;
 import android.widget.SimpleCursorAdapter;
 import android.widget.TextView;
-import com.android.music.R;
+import com.gluon.music.R;
 
 import java.io.IOException;
 import java.text.Collator;

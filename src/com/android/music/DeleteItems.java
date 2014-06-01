@@ -24,7 +24,7 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.TextView;
-import com.android.music.R;
+import com.gluon.music.R;
 
 public class DeleteItems extends Activity
 {

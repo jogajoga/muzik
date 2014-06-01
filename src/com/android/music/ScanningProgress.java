@@ -26,7 +26,7 @@ import android.os.Message;
 import android.provider.MediaStore;
 import android.view.Window;
 import android.view.WindowManager;
-import com.android.music.R;
+import com.gluon.music.R;
 
 public class ScanningProgress extends Activity
 {

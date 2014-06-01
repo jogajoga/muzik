@@ -33,7 +33,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
-import com.android.music.R;
+import com.gluon.music.R;
 
 public class RenamePlaylist extends Activity
 {
