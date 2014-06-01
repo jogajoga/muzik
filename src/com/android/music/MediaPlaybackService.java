@@ -51,6 +51,7 @@ import android.provider.MediaStore;
 import android.util.Log;
 import android.widget.RemoteViews;
 import android.widget.Toast;
+import com.android.music.R;
 
 import java.io.FileDescriptor;
 import java.io.IOException;
