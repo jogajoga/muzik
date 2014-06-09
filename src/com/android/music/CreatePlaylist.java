@@ -34,7 +34,7 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-import com.android.music.R;
+import com.gluon.music.R;
 
 public class CreatePlaylist extends Activity
 {

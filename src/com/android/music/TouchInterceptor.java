@@ -37,7 +37,7 @@ import android.view.GestureDetector.SimpleOnGestureListener;
 import android.widget.AdapterView;
 import android.widget.ImageView;
 import android.widget.ListView;
-import com.android.music.R;
+import com.gluon.music.R;
 
 public class TouchInterceptor extends ListView {
     
